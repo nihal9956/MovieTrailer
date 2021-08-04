@@ -1,0 +1,11 @@
+.from_container {
+  width: 60%;
+  margin: 5rem auto;
+}
+.movie_select {
+  width: 100%;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid lightgray !important;
+}
